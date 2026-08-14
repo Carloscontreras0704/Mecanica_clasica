@@ -14,7 +14,7 @@ En este repositorio se encuentran las tareas realizadas durante el curso, organi
 ```text
 Mecanica-Clasica/
 ├── README.md
-├── Problemas de los Viernes - Semana 02 (14-08-2026)/
+├── [Problemas de los Viernes - Semana 02 (14-08-2026)/](./tareas_viernes/primera_semana)
 ├── Tarea-02/
 ├── Tarea-03/
 └── ...
