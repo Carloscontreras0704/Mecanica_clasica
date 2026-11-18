@@ -11,3 +11,5 @@ A continuación se encuentran los accesos a los documentos de desarrollo teóric
 * **[Los Troyanos de Júpiter (Overleaf)](https://www.overleaf.com/project/6ae6dbeb81e826fb0501d823/share#ab5828ebb8b9e9808b6f9c892a23479400f4c625c3e12715)** — Libreta viva destinada al desarrollo teórico, reporte de simulaciones y contraste con datos observacionales.
 * **[NASA Solar System Exploration](https://solarsystem.nasa.gov/)** — Repositorio de datos orbitales y contexto observacional de los asteroides troyanos.
 * **[Evidencias](link)** — Carpeta con imágenes correspondientes a las cuentas hechas a mano presentadas como evidencia.
+* **[Códigos - Simulaciones]([https://solarsystem.nasa.gov/](https://github.com/Carloscontreras0704/Mecanica_clasica/tree/4fa8e0839ae4ffee3c6828080ab66f238339ab78/Los%20Troyanos%20de%20Jupiter/codes
+))** — Carpeta que contiene los códigos utilizados con la finalidad de facilitar los cálculos, creación de gráficas y simulaciones.
