@@ -16,5 +16,7 @@ Mecanica-Clasica/
 ├── README.md
 ├── Semana 02 - Problemas de los Viernes (14-08-2026)
 ├── Semana 03 - Problemas de los Viernes (21-08-2026)
-├── Tarea-03/
-└── ...
+├── Troyanos de Júpiter
+    ├── PDF
+    ├── Presentación
+    └── Codes
