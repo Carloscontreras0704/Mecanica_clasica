@@ -4,8 +4,8 @@ Repositorio para las tareas y trabajos de la asignatura **Mecánica Clásica**.
 
 ## Integrantes
 
-- Carlos Contreras
-- Juan Verano
+- Carlos Eduardo Contreras Moreno
+- Juan David Verano Ramírez
 
 ## Contenido
 
